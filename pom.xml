@@ -53,7 +53,7 @@
 		<repository>
 			<id>git hub</id>
 			<!-- http://localhost:8081/repository/<repository-name> -->
-			<url>https://github.com/mcavender/JMS.git</url>
+			<url>https://github.com/mcavender/JMS</url>
 		</repository>
 	</distributionManagement>
 
