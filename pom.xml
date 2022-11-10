@@ -48,5 +48,13 @@
             </plugin>
         </plugins>
     </build>
+    
+    	<distributionManagement>
+		<repository>
+			<id>git hub</id>
+			<!-- http://localhost:8081/repository/<repository-name> -->
+			<url>https://github.com/mcavender/JMS.git</url>
+		</repository>
+	</distributionManagement>
 
 </project>
