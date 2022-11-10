@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.example</groupId>
     <artifactId>gs-messaging-jms-complete</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>gs-messaging-jms-complete</name>
     <description>Demo project for Spring Boot</description>
     <properties>
@@ -20,7 +20,7 @@
         <connection>scm:git:https://github.com/mcaender/JMS.git</connection>
         <developerConnection>scm:git:https://github.com/mcavender/JMS.git</developerConnection>
         <url>https://github.com/mcavender/JMS.git</url>
-        <tag>gs-messaging-jms-complete-0.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
     <dependencies>
         <dependency>
