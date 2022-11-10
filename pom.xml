@@ -22,6 +22,15 @@
         <url>https://github.com/mcavender/JMS.git</url>
         <tag>HEAD</tag>
     </scm>
+    
+    <distributionManagement>
+        <repository>
+            <id>git hub</id>
+            <url>https://github.com/mcavender/JMS</url>
+        </repository>
+    </distributionManagement>
+    
+    
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -49,12 +58,6 @@
         </plugins>
     </build>
     
-    	<distributionManagement>
-		<repository>
-			<id>git hub</id>
-			<!-- http://localhost:8081/repository/<repository-name> -->
-			<url>https://github.com/mcavender/JMS</url>
-		</repository>
-	</distributionManagement>
+
 
 </project>
