@@ -25,7 +25,7 @@
     
     <distributionManagement>
         <repository>
-            <id>git hub</id>
+            <id>github</id>
             <url>https://github.com/mcavender/JMS</url>
         </repository>
     </distributionManagement>
